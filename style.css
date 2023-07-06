@@ -1,0 +1,67 @@
+* {
+    font-family: "Gill Sans", sans-serif;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+button {
+    font-size: 22px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 2px;
+    background-color: black;
+}
+
+.main-heading {
+    text-align: center;
+    border: black 2px solid;
+    margin: 10px;
+    padding: 5px; 
+}
+
+.main-list {
+    display: flex;
+    margin: 10px;
+    list-style: none;
+    margin: 5px;
+}
+
+.lasagne-ingredients {
+    display: block;
+    border: 2px dashed black;
+}
+
+.lasagne-steps {
+    display: block;
+    border: 2px solid black;
+}
+
+.recipe {
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.home {
+    font-size: 22px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 2px;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+}
+
+a:hover {
+    color: blueviolet;
+    text-decoration: wavy;
+}
+
+footer {
+    font-size: 18px;
+}
